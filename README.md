@@ -1,2 +1,2 @@
 # LG
-LG_Data
+LG_Assignment
